@@ -1,0 +1,11 @@
+MAS robots {
+	infrastructure: Centralised
+    environment: env.envController(gui)
+	agents:
+		ground ground  agentClass ag.GroundAgent #3;
+		air air  agentClass ag.AirAgent #1;
+
+
+	aslSourcePath:
+		"src/main/resources";
+}
