@@ -12,10 +12,10 @@ The agents are developed using Jason, a platform based on the BDI (Belief-Desire
 ## 🎥 Simulation Demos
 Below are different scenarios of the multi-agent system coordinating to navigate the grid, clear obstacles, and share environmental data in real-time.
 
-| Map Exploration | Targeted Search |
-| :---: | :---: |
-| ![Coordinated Pathfinding](assets/demo1.gif) | ![Targeted Search](assets/demo2.gif) |
-| **Coordinated Pathfinding** | *Ground agents clear obstacles while the Air agent maps the terrain.* |
+## 🎥 Simulation Demo
+![Map Exploration](assets/demo1.gif)
+
+*Ground agents coordinate with the Air agent to navigate and explore the map.*
 
 ## ✨ Key Features
 * **BDI Architecture:** Agents base their reasoning on Beliefs, Desires, and Intentions using AgentSpeak/Jason.
