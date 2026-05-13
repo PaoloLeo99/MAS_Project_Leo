@@ -12,7 +12,6 @@ The agents are developed using Jason, a platform based on the BDI (Belief-Desire
 ## 🎥 Simulation Demos
 Below are different scenarios of the multi-agent system coordinating to navigate the grid, clear obstacles, and share environmental data in real-time.
 
-## 🎥 Simulation Demo
 ![Map Exploration](assets/demo1.gif)
 
 *Ground agents coordinate with the Air agent to navigate and explore the map.*
