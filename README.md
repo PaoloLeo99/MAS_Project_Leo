@@ -14,9 +14,8 @@ Below are different scenarios of the multi-agent system coordinating to navigate
 
 | Map Exploration | Targeted Search |
 | :---: | :---: |
-| <video src="assets/demo1.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="assets/demo2.mp4" autoplay loop muted playsinline width="100%"></video> |
-| **Coordinated Pathfinding** | |
- *Ground agents clear obstacles while the Air agent maps the terrain.* |
+| ![Coordinated Pathfinding](assets/demo1.gif) | ![Targeted Search](assets/demo2.gif) |
+| **Coordinated Pathfinding** | *Ground agents clear obstacles while the Air agent maps the terrain.* |
 
 ## ✨ Key Features
 * **BDI Architecture:** Agents base their reasoning on Beliefs, Desires, and Intentions using AgentSpeak/Jason.
