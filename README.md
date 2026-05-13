@@ -9,6 +9,15 @@ This project presents an implementation of a simulated 2D environment where a te
 
 The agents are developed using Jason, a platform based on the BDI (Belief-Desire-Intention) architecture, which is well-suited for modeling autonomous and goal-driven behaviors.
 
+## 🎥 Simulation Demos
+Below are different scenarios of the multi-agent system coordinating to navigate the grid, clear obstacles, and share environmental data in real-time.
+
+| Map Exploration | Targeted Search |
+| :---: | :---: |
+| <video src="assets/demo1.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="assets/demo2.mp4" autoplay loop muted playsinline width="100%"></video> |
+| **Coordinated Pathfinding** | |
+| <video src="assets/demo3.mp4" autoplay loop muted playsinline width="100%"></video> | *Ground agents clear obstacles while the Air agent maps the terrain.* |
+
 ## ✨ Key Features
 * **BDI Architecture:** Agents base their reasoning on Beliefs, Desires, and Intentions using AgentSpeak/Jason.
 * **Dynamic Pathfinding:** Implements the D* Lite algorithm for fast, incremental path planning in partially known environments.
