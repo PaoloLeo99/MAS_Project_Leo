@@ -33,11 +33,14 @@ The agents are developed using Jason, a platform based on the BDI (Belief-Desire
    ```bash
    git clone [https://github.com/PaoloLeo99/MAS_Project_Leo.git](https://github.com/PaoloLeo99/MAS_Project_Leo.git)
    cd MAS_Project_Leo
-2. Run the application:
-   Windows:
-   ```bash
-   gradlew.bat runExplorationTask
+   ```
 
-   macOS / Linux:
-   ```bash
-   ./gradlew runExplorationTask
+2. Run the application:
+   - **Windows:**
+     ```bash
+     gradlew.bat runExplorationTask
+     ```
+   - **macOS / Linux:**
+     ```bash
+     ./gradlew runExplorationTask
+     ```
